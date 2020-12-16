@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcrypt0n" alt="iamcrypt0n" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamcrypt0n" target="blank"><img src="https://img.shields.io/twitter/follow/iamcrypt0n?logo=twitter&style=for-the-badge" alt="iamcrypt0n" /></a> </p>
 
 - 🔭 I’m currently working on **Unity3D Sprite Sorter & A top secret mobile app**
 
@@ -13,6 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://www.crypt0n.com](https://www.crypt0n.com)
 
 - 📫 How to reach me **egner.francois@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamcrypt0n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamcrypt0n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
