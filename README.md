@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Unity3D Sprite Sorter](https://github.com/IamCrypt0n/Unity3D-Sprite-Sorter)
 
-- 🌱 I’m currently learning **nodejs+Express(RestAPI) & Unity3D & Linux Kernel Programming**
+- 🌱 I’m currently learning **nodejs+Express(RestAPI) & Unity3D**
 
 - 👨‍💻 All of my projects are available at [https://francois-egner.de](https://francois-egner.de)
 
-- 📫 How to reach me **egner.francois@outlook.com**
+- 📫 How to reach me **mail@francois-egner.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
