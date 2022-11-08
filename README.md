@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francois Egner aka. Crypt0n</h1>
+<h1 align="center">Hi 👋, I'm Francois</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcrypt0n&label=Profile%20views&color=0e75b6&style=flat" alt="iamcrypt0n" /> </p>
 
