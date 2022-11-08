@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Francois</h1>
+<h1 align="center">Hi 👋, I'm François</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcrypt0n&label=Profile%20views&color=0e75b6&style=flat" alt="iamcrypt0n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=francois-egner&label=Profile%20views&color=0e75b6&style=flat" alt="iamcrypt0n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcrypt0n" alt="iamcrypt0n" /></a> </p>
 
