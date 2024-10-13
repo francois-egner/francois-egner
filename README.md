@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm François</h1>
+<h1 align="center">Hi 👋, I'm François Egner</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francois-egner&label=Profile%20views&color=0e75b6&style=flat" alt="francois-egner" /> </p>
 
