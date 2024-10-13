@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francois-egner" alt="francois-egner" /></a> </p>
 
-- 🔭 I’m currently working on [friTap](https://github.com/fkie-cad/friTap)
+- 🔭 I’m currently working on [Try-Typescript]([https://github.com/fkie-cad/friTap](https://github.com/francois-egner/Try-Typescript))
 
-- 🌱 I’m currently learning **nodejs+Express(RestAPI)**
+- 🌱 I’m currently learning **mainly DevOps things**
 
 - 👨‍💻 All of my projects are available at [https://francois-egner.de](https://francois-egner.de)
 
